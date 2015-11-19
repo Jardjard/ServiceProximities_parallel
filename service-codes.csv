@@ -1,0 +1,65 @@
+100001,Low Density Residential
+100002,High Density Residential – Apartment
+100003,Subsidized Housing
+101001,Hospital - Private and Public
+101002,Old Age/Retirement Home
+101003,Day Car
+101004,Hostel
+101005,Nursing Home - All Types
+101006,Penal Institution 
+101007,Other Medical/Dental
+102001,Public School – Primary
+102002,Public School – Secondary
+102003,Separate School – Primary
+102004,Separate School – Secondary
+102005,Private School
+102006,College
+102007,University
+102008,Other Educational Institution
+103001,Ambulance Station
+103002,Fire Station 
+103003,Police Station 
+103004,Other Emergency Service
+103005,Fire/Ambulance Station
+104001,Municipal City Hall
+104002,Municipal Other
+104003,Regional Hall
+104004,Regional Other
+104005,Provincial Legislature
+104006,Provincial Other
+104007,Federal Office Building
+104008,Other Office Building
+106001,Municipal Park
+106002,Regional Park
+106003,Provincial Park
+106004,Federal Park
+106005,Sport Complex
+106006,Golf Course
+106007,Community/Assembly Hall
+106008,Other Recreational Facility
+107001,Restaurant
+107002,Concert Hall/Theatre/Cinema
+107003,Regional Shopping Centre
+107004,Community Shopping Centre
+107005,Neighbourhood Shopping Centre
+107006,Hotel
+107007,Exhibition/Fair Ground
+107008,Museum/Art Gallery
+107009,Library
+107010,Other Point of Interest
+108001,Subway Station
+108002,Rapid Transit Station
+108003,GO Bus Terminal
+108004,GO Train Station
+108005,Airport
+108006,Parking Lot
+108007,Railway Station
+108008,Other Transportation Facility
+109001,Place of Worship
+109002,Cemetery
+110001,Other Use
+111001,Farm
+112001,Commercial Location
+113001,Industrial Location
+114001,Vacant Location
+115001,Unknown
